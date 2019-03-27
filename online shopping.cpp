@@ -1,4 +1,4 @@
-//programmer Miss Deepali Verma
+//programmer Deepali Verma
 #include<iostream>
 #include<stdio.h>
 using namespace std;
